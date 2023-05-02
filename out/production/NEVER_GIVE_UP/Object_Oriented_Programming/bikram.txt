@@ -1,0 +1,44 @@
+
+1.Abstraction:-
+        Hiding internal details and showing only required features
+        Ex--if we take example of a tv then its button is a abstraction
+
+2.Encapsulation:
+        Encapsulation is a way to restrict the direct access to some components of an object,
+        so users cannot access state values for all of the variables of a particular object.
+        Encapsulation can be used to hide both data members and data functions or methods
+        associated with an instantiated class or object.
+
+
+3.Inheritance:
+        Inheritance is a feature or a process in which, new classes are created from the existing classes.
+        The new class created is called “derived class” or “child class” and the existing
+        class is known as the “base class” or “parent class”.
+        The derived class now is said to be inherited from the base class.
+
+4.Polymorphism:
+           It is an object-oriented programming concept that refers to the ability of
+           a variable, function, or object to take on multiple forms. In a programming language
+           exhibiting polymorphism, class objects belonging to the same hierarchical tree
+           (inherited from a common parent class) may have functions with the same name,
+           but with different behaviors.
+
+
+Every OOPS has a 1.Properties
+                 2.Behavior
+
+Class and Object: -
+            if CAR is object then its design is a Class
+            if Television is a Object then its circuit is an Class
+
+DATA HIDING:
+        If we take an example of an tv then we notice that the switch of that tv nothing but a method(function)
+        and the inner circuit is a complex data form which is access by the function.{data is hidden is we don't
+        need to open the tv and doing any circuit to modified so we can use the method}
+
+        if we hiding we need just write private inside the class[outer that class not access the data]
+
+        we use GET method for read the data...[Its a public]
+        and use SET method for write the data...[its a public]
+
+

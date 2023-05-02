@@ -1,0 +1,95 @@
+Generalization:
+            smartphone--->iphone    ||
+                      --->Samsung   ||
+                      --->Oppo      ||  Interfaces
+            Vehicle--->Car          ||
+                   --->Bike         ||
+                   --->Ship         ||
+
+Specialization:
+            Iphone X --> Iphone Xs      ||
+                                        || This is achieve in java call
+            Innova --> Fortuner         || Inheritance in specialization
+                                        ||
+            Guiter --> Electric Guiter  ||
+
+
+A class have Properties.
+
+Inheritance:--> Inheritance is the process of acquiring features of an existing Class
+                into a New Class.
+
+                A Class will have Properties and Method.
+
+  \\Inheritance means available but accessible(No) is different things....
+
+
+Constructor:--->Constructors are the methods of class which are automatically called
+                when an object is created.
+
+                Constructors are executed from Top to Bottom Class.
+
+                To make the child class object firstly the parent class constructor must be
+                created
+
+(THIS) -->> This is reference of current object or present object.
+
+(SUPER) -->>The super keyword in java is a reference variable that is used to refer to parent class objects.
+
+Method_Overloading---->>>Redefining the method of the Super Class in the Sub Class.
+
+                         Method will be called depending on the object.
+
+                         Method overriding is achieved in Inheritance.
+
+Dynamic Method Dispatch--->>It is useful for achieving Runtime Polymorphism.
+
+
+Method_Overriding----->>Signature must be same in method overriding.
+   (Do or don't)        If the method name is different the method is not overridden but it is
+                        overloaded.
+                        Argument may be different but the parameter must be same.
+                        Return type must be same, if it is not same then the method is neither
+                        overridden nor overloaded.
+                        Final and static methods cannot be overridden.
+                        Method can be overridden with same or lenient (public, protected) access
+                        specifiers but the stricter(private) access specifiers cannot be used in sub
+                        class.
+
+Polimorphism --->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
